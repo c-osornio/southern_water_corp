@@ -1,6 +1,4 @@
-# DataAnalyticsProjects
- 
- **The Southern Water Corp Project: Statistics Analysis with Python**
+**The Southern Water Corp Project: Statistics Analysis with Python**
 ---
 The Southern Water Corp Project is a complex, challenging and real-world problem solving  project for doing financial, economics and statistics analyses. I've now converted all the analysis I did for Southern Water Corp using Excel into Python. I created visualizations using Seaborn, manipulated datasets with pandas, and so much more! 
 
